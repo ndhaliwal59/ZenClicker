@@ -1,0 +1,11 @@
+{
+  "name": "Zen Clicker",
+  "version": "1.0.0",
+  "description": "This extension helps you calm your mind through a mindless game of clicking. Indulge into a world of Zen!",
+  "manifest_version": 3,
+  "author": "Nishan Dhaliwal",
+  "action": {
+      "default_popup": "index.html",
+      "default_title": "Zen Clicker"
+  }
+}
